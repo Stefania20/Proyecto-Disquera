@@ -1,0 +1,7 @@
+model\AlbumVo.class
+model\GeneroDao.class
+model\GeneroVo.class
+model\AlbumDao.class
+model\Conexion.class
+controller\Album.class
+controller\Genero.class
